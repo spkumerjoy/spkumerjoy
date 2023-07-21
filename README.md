@@ -1,5 +1,5 @@
 ### 👋 Hello there, 
-<h2>I'm Sree Proshenjit Kumer Joy</h2>
+###I'm Sree Proshenjit Kumer Joy
 #### I'm MERN Stack Web Developer
 ![I'm MERN Stack Web Developer](https://raw.githubusercontent.com/spkumerjoy/spkumerjoy/main/github-banner.jpg)
 
