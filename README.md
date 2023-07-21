@@ -1,6 +1,6 @@
 ### 👋 Hello there, 
-I'm Sree Proshenjit Kumer Joy
-#### I'm MERN Stack Web Developer
+<h2>I'm Sree Proshenjit Kumer Joy</h2>
+#### <h3>I'm MERN Stack Web Developer</h3>
 ![I'm MERN Stack Web Developer](https://raw.githubusercontent.com/spkumerjoy/spkumerjoy/main/github-banner.jpg)
  
 I'm Joy, a dedicated front-end developer with a knack for creating remarkable websites. I specialize in front-end development and possess strong proficiency in WordPress customization as well.
