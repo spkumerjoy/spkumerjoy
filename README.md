@@ -32,7 +32,7 @@ Let's connect and stay in touch:
 
 ## GitHub Statistics 📈
 
-<div style="display: flex;">
+<div>
   <div style="flex: 50%; padding: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spkumerjoy&layout=compact&hide=html&langs_count=6&card_width=300" alt="Most Used Languages" align="center" />
   </div>
