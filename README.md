@@ -20,6 +20,10 @@ With my expertise in HTML, CSS, Bootstrap, Tailwind, and JavaScript, I have the 
 
 I'm currently learning Next JS to further expand my skillset and create even more powerful and efficient web applications.
 
+## Portfolio Website 🌐
+
+Check out my portfolio website at [joyskyz.com](https://joyskyz.com) to explore more of my projects and get a closer look at my work.
+
 ## Social Profiles 🌐
 
 Let's connect and stay in touch:
@@ -28,7 +32,7 @@ Let's connect and stay in touch:
 [![Facebook](https://img.shields.io/badge/Facebook-spkumerjoy-blue?logo=facebook&style=for-the-badge&logoColor=white)](https://www.facebook.com/spkumerjoy)
 [![Instagram](https://img.shields.io/badge/Instagram-spkumerjoy-pink?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/spkumerjoy)
 [![Twitter](https://img.shields.io/badge/Twitter-spkumerjoy-blue?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/spkumerjoy)
-[![Skype](https://img.shields.io/badge/Skype-joy.sky10-lightblue?logo=skype&style=for-the-badge&logoColor=white)](skype:joy.sky10)
+[![Skype](https://img.shields.io/badge/Skype-joy.sky10-lightblue?logo=skype&style=for-the-badge&logoColor=white)]([skype:joy.sky10](https://join.skype.com/invite/VIy8NR6RFE7L))
 
 ## GitHub Statistics 📈
 
