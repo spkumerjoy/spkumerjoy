@@ -32,14 +32,15 @@ Let's connect and stay in touch:
 
 ## GitHub Statistics 📈
 
-<div>
+
   <div style="flex: 50%; padding: 5px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spkumerjoy&layout=compact&hide=html&langs_count=6&card_width=300" alt="Most Used Languages" align="center" />
   </div>
+  <br>
   <div style="flex: 50%; padding: 5px; margin-top: 20px">
     <img src="https://github-readme-stats.vercel.app/api?username=spkumerjoy&show_icons=true&count_private=true&hide=prs,issues&theme=radical" alt="GitHub Stats" align="center" />
   </div>
-</div>
+
 
 ## Let's Create Something Extraordinary 💼
 
