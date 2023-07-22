@@ -30,9 +30,9 @@ Let's connect and stay in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-spkumerjoy-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/spkumerjoy)
 [![Facebook](https://img.shields.io/badge/Facebook-spkumerjoy-blue?logo=facebook&style=for-the-badge&logoColor=white)](https://www.facebook.com/spkumerjoy)
-[![Instagram](https://img.shields.io/badge/Instagram-spkumerjoy-pink?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/spkumerjoy)
+[![Instagram](https://img.shields.io/badge/Instagram-spkumerjoy-pink?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/spkumerjoy/)
 [![Twitter](https://img.shields.io/badge/Twitter-spkumerjoy-blue?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/spkumerjoy)
-[![Skype](https://img.shields.io/badge/Skype-joy.sky10-lightblue?logo=skype&style=for-the-badge&logoColor=white)]([skype:joy.sky10](https://join.skype.com/invite/VIy8NR6RFE7L))
+[![Skype](https://img.shields.io/badge/Skype-joy.sky10-lightblue?logo=skype&style=for-the-badge&logoColor=white)](https://join.skype.com/invite/VIy8NR6RFE7L)
 
 ## GitHub Statistics 📈
 
